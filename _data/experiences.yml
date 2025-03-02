@@ -29,7 +29,7 @@ main:
     location: "Zurich, Switzerland"
     date: "May - July 201y"
     description: | # this will include new lines to allow paragraphs
-      As an intern in <a href="https://da.inf.ethz.ch/people/ThomasHofmann">Thomas Hofmann's</a> lab working under the supervision of \href{https://health-nlp.com/people/carsten.html}{Carsten Eickhoff}, 
+      As an intern in <a href="https://da.inf.ethz.ch/people/ThomasHofmann">Thomas Hofmann's</a> lab working under the supervision of <a="https://health-nlp.com/people/carsten.html"> Carsten Eickhoff</a>, 
       I worked on a modular, patient-centric information retrieval system designed for precision oncology applications. 
       The result of the project was a submission to the TREC 2017 Precision Medicine track.
 
