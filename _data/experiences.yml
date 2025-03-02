@@ -1,0 +1,49 @@
+main:
+
+  - title: "Research Intern"
+    company: "Google Research"
+    location: "Zurich, Switzerland"
+    date: "January-April 2025"
+    description: | # this will include new lines to allow paragraphs
+      Working on a project to optimize long-context inference, improving LLMs' efficiency in processing and understanding extended inputs.
+
+  - title: "Doctoral Research Assistant"
+    company: "EPFL"
+    location: "Lausanne, Switzerland"
+    date: "2019 - Present"
+    description: | # this will include new lines to allow paragraphs
+      Contributed to multiple research projects on multilingual LLMs, covering the entire training pipeline. 
+      Led the multilingual effort within the <a href="https://www.swiss-ai.org"> SwissAI initiative</a>.
+      Collaborated on projects with Google, Cohere, and HuggingFace.
+      Supervised junior researchers and summer interns. Served as a teaching assistant in several courses.
+
+  - title: "Research Assistant"
+    company: "Machine Learning and Optimization Laboratory, EPFL"
+    location: "Lausanne, Switzerland"
+    date: "Sept. 2018 - Sept. 2019"
+    description: | # this will include new lines to allow paragraphs
+      I was involved in the <a href="https://mlbench.github.io">mlbench</a> project, a benchmark framework for distributed machine learning.
+
+  - title: "Research Intern"
+    company: "Data Analytics Laboratory, ETH"
+    location: "Zurich, Switzerland"
+    date: "May - July 201y"
+    description: | # this will include new lines to allow paragraphs
+      As an intern in <a href="https://da.inf.ethz.ch/people/ThomasHofmann">Thomas Hofmann's</a> lab working under the supervision of \href{https://health-nlp.com/people/carsten.html}{Carsten Eickhoff}, 
+      I worked on a modular, patient-centric information retrieval system designed for precision oncology applications. 
+      The result of the project was a submission to the TREC 2017 Precision Medicine track.
+
+  - title: "Research Intern"
+    company: "Max Planck Institute for Software Systems"
+    location: "Kaiserslautern, Germany"
+    date: "February - April 2017"
+    description: | # this will include new lines to allow paragraphs
+      As an intern under the supervision of <a href="https://people.mpi-sws.org/~manuelgr/">Manuel Gomez Rodriguez</a>, 
+      I worked on a project analyzing the dynamics of citation networks: quantifying the value of a set of published papers and modeling knowledge diffusion across a citation network.
+
+  - title: "R&D Engineer"
+    company: "Center of Intelligent Vision & Image Processing, Shiraz University"
+    location: "Shiraz, Iran"
+    date: "2016 - 2017"
+    description: | # this will include new lines to allow paragraphs
+      I worked on projects focused on object detection, facial expression analysis, and real-time face recognition and tracking.

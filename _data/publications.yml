@@ -1,22 +1,165 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge"
+    authors: Angelika Romanou, <strong>Negar Foroutan</strong>, Anna Sotnikova, et al.
+    conference_short: ICLR'25
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2411.19799
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    page: https://nlp.epfl.ch/include/
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/include.png
+    notes: Spotlight
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Could ChatGPT get an Engineering Degree? Evaluating Higher Education Vulnerability to AI Assistants"
+    authors: Beatriz Borges*, <strong>Negar Foroutan*</strong>, Deniz Bayazit*, Anna Sotnikova*, et al.
+    conference_short: PNAS'24
+    conference: Proceedings of the National Academy of Sciences <strong>(PNAS)</strong>, 2024.
+    pdf: https://doi.org/10.1073/pnas.2414955121
+    code: https://github.com/epfl-nlp/nlp4education
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/chatgpt.png
+
+  - title: "Discovering Knowledge-Critical Subnetworks in Pretrained Language Models"
+    authors: Deniz Bayazit, <strong>Negar Foroutan</strong>, Zeming Chen, Gail Weiss, Antoine Bosselut
+    conference_short: EMNLP'24
+    conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2310.03084
+    # code: https://github.com/epfl-nlp/nlp4education
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Poster Presentation
+    image: ./assets/img/knowledge_critical.png
+
+  - title: "How Do Multilingual Models Remember? Investigating Multilingual Factual Recall Mechanisms"
+    authors: Constanza Fierro, <strong>Negar Foroutan</strong>, Desmond Elliott, Anders Søgaard
+    conference_short: arXiv
+    conference: arXiv preprint, 2024.
+    pdf: https://arxiv.org/pdf/2410.14387
+    # code: https://github.com/epfl-nlp/nlp4education
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/multilingual_recall.png
+
+  - title: "Breaking the Language Barrier: Improving Cross-Lingual Reasoning with Structured Self-Attention"
+    authors: <strong>Negar Foroutan</strong>, Mohammadreza Banaei, Karl Aberer, Antoine Bosselut
+    conference_short: EMNLP'23
+    conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2023.
+    pdf: https://aclanthology.org/2023.findings-emnlp.632.pdf
+    code: https://github.com/negar-foroutan/multilingual-code-switched-reasoning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/cross-lingual_reasoning.png
+    # notes: Poster Presentation
+
+  - title: "Stop Pre-Training: Adapt Visual-Language Models to Unseen Languages"
+    authors: Yasmine Karoui, Rémi Lebret, <strong>Negar Foroutan</strong>, Karl Aberer
+    conference_short: ACL'23
+    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2023.
+    pdf: https://arxiv.org/abs/2306.16774
+    code: https://github.com/Yasminekaroui/CliCoTea
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Poster Presentation
+    image: ./assets/img/stop_pretraining.png
+
+  - title: "Discovering Language-neutral Sub-networks in Multilingual Language Models"
+    authors: <strong>Negar Foroutan</strong>, Mohammadreza Banaei, Remi Lebret, Antoine Bosselut, Karl Aberer
+    conference_short: EMNLP'22
+    conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2022.
+    pdf: https://aclanthology.org/2022.emnlp-main.513/
+    code: https://github.com/negar-foroutan/multiLMs-lang-neutral-subnets
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Poster Presentation
+    image: ./assets/img/lang-neutral-subnet.png
+
+  - title: "Multilingual Text Summarization on Financial Documents"
+    authors: <strong>Negar Foroutan</strong>, Angelika Romanou, Stéphane Massonnet, Rémi Lebret, Karl Aberer
+    conference_short: PNAS'24
+    conference: Proceedings of the National Academy of Sciences <strong>(PNAS)</strong>, 2024.
+    pdf: https://aclanthology.org/2022.fnp-1.7/
+    # code: https://github.com/epfl-nlp/nlp4education
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/summerization.png
+
+  - title: "Sparse Communication for Training Deep Networks"
+    authors: <strong>Negar Foroutan</strong>, Martin Jaggi.
+    # conference_short: PNAS'24
+    conference: Workshop on "Beyond first-order methods in ML systems" at ICML, 2020.
+    pdf: https://arxiv.org/abs/2009.09271
+    # code: https://github.com/epfl-nlp/nlp4education
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/sparse_communication.png
+
+  - title: "Discovering the Hidden Structure of a Social Network: A Semi Supervised Approach"
+    authors: <strong>Negar Foroutan</strong>, Ali Hamzeh
+    conference_short: TCSS'17
+    conference: IEEE Transactions on Computational Social Systems.
+    pdf: https://ieeexplore.ieee.org/document/7869356
+    # code: https://github.com/epfl-nlp/nlp4education
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/discover_hidden.png
+
+  - title: "ETH Zurich at TREC Precision Medicine 2017"
+    authors: <strong>Negar Foroutan</strong>, Jannick Griner, Nicolas Mesot, Leandro von Werra and Carsten Eickhoff
+    # conference_short: PNAS'24
+    conference: TREC Precision Medicine 2017.
+    pdf: https://health-nlp.com/files/pubs/trec17.pdf
+    # code: https://github.com/epfl-nlp/nlp4education
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/eth.png
+
+  - title: "A lightweight method to investigate unknown social network structure"
+    authors:  <strong>Negar Foroutan</strong>, Ardavan Afshar, Bahareh Ashenagar, Ali Hamzeh
+    conference_short: ICCKE'15
+    conference: 5th International Conference on Computer and Knowledge Engineering (ICCKE).
+    pdf: https://ieeexplore.ieee.org/document/7365838
+    # code: https://github.com/epfl-nlp/nlp4education
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/lightweight.png
+
+  - title: "Team formation in social networks based on local distance metric"
+    authors: Bahareh Ashenagar, <strong>Negar Foroutan</strong>, Ardavan Afshar, Ali Hamzeh
+    conference_short: FSKD'15
+    conference: International Conference on Fuzzy Systems and Knowledge Discovery (FSKD), 2015.
+    pdf: https://ieeexplore.ieee.org/document/7382071
+    # code: https://github.com/epfl-nlp/nlp4education
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
+  - title: "A fast approach for multi-objective team formation in social networks"
+    authors: Bahareh Ashenagar, Ali Hamzeh, <strong>Negar Foroutan</strong> Ardavan Afshar
+    conference_short: IKT'15
+    conference:  7th Conference on Information and Knowledge Technology (IKT), 2015.
+    pdf: https://ieeexplore.ieee.org/document/7288755
+    # code: https://github.com/epfl-nlp/nlp4education
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
+
+  - title: "Using local utility maximization to detect social networks communities"
+    authors: Ardavan Afshar, Bahareh Ashenagar, <strong>Negar Foroutan</strong>, Mansour Zolghadri Jahromi, Ali Hamzeh
+    conference_short: CSSE'15
+    conference: CSI International Symposium on Computer Science and Software Engineering (CSSE), 2015.
+    pdf: https://ieeexplore.ieee.org/document/7369236
+    # code: https://github.com/epfl-nlp/nlp4education
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
+
