@@ -131,32 +131,32 @@ main:
     # notes: Oral Presentation
     image: ./assets/img/lightweight.png
 
-  - title: "Team formation in social networks based on local distance metric"
-    authors: Bahareh Ashenagar, <strong>Negar Foroutan</strong>, Ardavan Afshar, Ali Hamzeh
-    conference_short: FSKD'15
-    conference: International Conference on Fuzzy Systems and Knowledge Discovery (FSKD), 2015.
-    pdf: https://ieeexplore.ieee.org/document/7382071
+  # - title: "Team formation in social networks based on local distance metric"
+  #   authors: Bahareh Ashenagar, <strong>Negar Foroutan</strong>, Ardavan Afshar, Ali Hamzeh
+  #   conference_short: FSKD'15
+  #   conference: International Conference on Fuzzy Systems and Knowledge Discovery (FSKD), 2015.
+  #   pdf: https://ieeexplore.ieee.org/document/7382071
     # code: https://github.com/epfl-nlp/nlp4education
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
-  - title: "A fast approach for multi-objective team formation in social networks"
-    authors: Bahareh Ashenagar, Ali Hamzeh, <strong>Negar Foroutan</strong> Ardavan Afshar
-    conference_short: IKT'15
-    conference:  7th Conference on Information and Knowledge Technology (IKT), 2015.
-    pdf: https://ieeexplore.ieee.org/document/7288755
+  # - title: "A fast approach for multi-objective team formation in social networks"
+  #   authors: Bahareh Ashenagar, Ali Hamzeh, <strong>Negar Foroutan</strong> Ardavan Afshar
+  #   conference_short: IKT'15
+  #   conference:  7th Conference on Information and Knowledge Technology (IKT), 2015.
+  #   pdf: https://ieeexplore.ieee.org/document/7288755
     # code: https://github.com/epfl-nlp/nlp4education
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
 
-  - title: "Using local utility maximization to detect social networks communities"
-    authors: Ardavan Afshar, Bahareh Ashenagar, <strong>Negar Foroutan</strong>, Mansour Zolghadri Jahromi, Ali Hamzeh
-    conference_short: CSSE'15
-    conference: CSI International Symposium on Computer Science and Software Engineering (CSSE), 2015.
-    pdf: https://ieeexplore.ieee.org/document/7369236
+  # - title: "Using local utility maximization to detect social networks communities"
+  #   authors: Ardavan Afshar, Bahareh Ashenagar, <strong>Negar Foroutan</strong>, Mansour Zolghadri Jahromi, Ali Hamzeh
+  #   conference_short: CSSE'15
+  #   conference: CSI International Symposium on Computer Science and Software Engineering (CSSE), 2015.
+    # pdf: https://ieeexplore.ieee.org/document/7369236
     # code: https://github.com/epfl-nlp/nlp4education
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
