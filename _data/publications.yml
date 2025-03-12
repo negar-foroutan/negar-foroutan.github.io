@@ -78,8 +78,8 @@ main:
 
   - title: "Multilingual Text Summarization on Financial Documents"
     authors: <strong>Negar Foroutan</strong>, Angelika Romanou, Stéphane Massonnet, Rémi Lebret, Karl Aberer
-    conference_short: PNAS'24
-    conference: Proceedings of the National Academy of Sciences <strong>(PNAS)</strong>, 2024.
+    # conference_short: LREC22
+    conference: Proceedings of the 4th Financial Narrative Processing Workshop @LREC2022.
     pdf: https://aclanthology.org/2022.fnp-1.7/
     # code: https://github.com/epfl-nlp/nlp4education
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
