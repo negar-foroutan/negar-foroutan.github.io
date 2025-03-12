@@ -12,7 +12,7 @@ under supervision of [Prof. Antoine Bosselut](https://atcbosselut.github.io/)
 and [Prof. Karl Aberer](https://people.epfl.ch/karl.aberer?lang=en).
 Currently, I am doing a 4-month research internship at Google Zurich.
 
-**NEW: I'm on the job market, looking for a position starting in the fall of 2025.**
+**NEW: I'm on the job market, looking for a position starting in the Fall of 2025.**
 
 ## Research Interests
 
