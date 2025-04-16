@@ -10,7 +10,7 @@ I am a PhD student at the
 [NLP](https://nlp.epfl.ch/) and [LSIR](https://www.epfl.ch/labs/lsir/) labs
 under supervision of [Prof. Antoine Bosselut](https://atcbosselut.github.io/)
 and [Prof. Karl Aberer](https://people.epfl.ch/karl.aberer?lang=en).
-Currently, I am doing a 4-month research internship at Google Zurich.
+Currently, I am doing a 4-month research internship at Google Research, Zurich.
 
 **NEW: I'm on the job market, looking for a position starting in the Fall of 2025.**
 
@@ -35,12 +35,12 @@ I work across the entire pipeline of training multilingual LLMs, including:
 
 <h4 style="margin:0 10px 0;">PhD in Computer & Communication Sciences | EPFL, Switzerland, 2019 - 2025 (expected)</h4>
 
-- Thesis: *Multilingual NLP and Few-shot Learning*
+- Thesis: * Scaling Multilinguality: Addressing Low-Resource Language Limitations in Large Language Models*
 - Advisors: [Prof. Antoine Bosselut](https://atcbosselut.github.io/) and [Prof. Karl Aberer](https://people.epfl.ch/karl.aberer?lang=en)
 
 <h4 style="margin:0 10px 0;">MSc in Computer Engineering (Artificial Intelligence) | Shiraz University, Iran, 2013 - 2016</h4>
 
-- Thesis: *Deep Learning for Image Recognition*
+- Thesis: *Discovering the Hidden Structure of a Social Network: A Semi Supervised Approach*
 - Advisor: Prof. Ali Hamzeh
 
 <h4 style="margin:0 10px 0;">BSc in Computer Engineering (Software Engineering) | Shiraz University, Iran, 2009 - 2013</h4>
