@@ -35,7 +35,7 @@ I work across the entire pipeline of training multilingual LLMs, including:
 
 <h4 style="margin:0 10px 0;">PhD in Computer & Communication Sciences | EPFL, Switzerland, 2019 - 2025 (expected)</h4>
 
-- Thesis: * Scaling Multilinguality: Addressing Low-Resource Language Limitations in Large Language Models*
+- Thesis: *Scaling Multilinguality: Addressing Low-Resource Language Limitations in Large Language Models*
 - Advisors: [Prof. Antoine Bosselut](https://atcbosselut.github.io/) and [Prof. Karl Aberer](https://people.epfl.ch/karl.aberer?lang=en)
 
 <h4 style="margin:0 10px 0;">MSc in Computer Engineering (Artificial Intelligence) | Shiraz University, Iran, 2013 - 2016</h4>
