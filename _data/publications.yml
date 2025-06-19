@@ -19,9 +19,10 @@ main:
 
   - title: "How Do Multilingual Models Remember? Investigating Multilingual Factual Recall Mechanisms"
     authors: Constanza Fierro, <strong>Negar Foroutan</strong>, Desmond Elliott, Anders Søgaard
-    conference_short: ACL'25 - Findings
-    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2025.
+    conference_short: ACL'25
+    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2025 - Findings.
     pdf: https://arxiv.org/pdf/2410.14387
+    code: https://github.com/epfl-nlp/ConLID
     # code: https://github.com/epfl-nlp/nlp4education
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
