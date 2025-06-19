@@ -1,8 +1,8 @@
 main:
   - title: "WikiMixQA: A Multimodal Benchmark for Question Answering over Tables and Charts"
     authors: <strong>Negar Foroutan</strong>, Angelika Romanou, Matin Ansaripour, Julian Martin Eisenschlos, Karl Aberer, Rémi Lebret
-    conference_short: arXiv
-    conference: arXiv preprint, 2025.
+    conference_short: ACL'25
+    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2025 - Findings.
     pdf: https://arxiv.org/abs/2506.15594
     image: ./assets/img/wikimix.png
     code: https://github.com/negar-foroutan/WikiMixQA
