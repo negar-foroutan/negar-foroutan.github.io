@@ -1,9 +1,18 @@
 main:
+  - title: "WikiMixQA: A Multimodal Benchmark for Question Answering over Tables and Charts"
+    authors: <strong>Negar Foroutan</strong>, Angelika Romanou, Matin Ansaripour, Julian Martin Eisenschlos, Karl Aberer, Rémi Lebret
+    conference_short: arXiv
+    conference: arXiv preprint, 2025.
+    pdf: https://arxiv.org/abs/2506.15594
+    image: ./assets/img/wikimix.png
+    code: https://github.com/negar-foroutan/WikiMixQA
+    
   - title: "ConLID: Supervised Contrastive Learning for Low-Resource Language Identification"
     authors: <strong>Negar Foroutan</strong>, Jakhongir Saydaliev, Ye Eun Kim, Antoine Bosselut
     conference_short: arXiv
     conference: arXiv preprint, 2025.
     pdf: https://arxiv.org/abs/2506.15304
+    code: https://github.com/epfl-nlp/ConLID
     image: ./assets/img/LID_figure.png
     
   - title: "INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge"
@@ -22,7 +31,6 @@ main:
     conference_short: ACL'25
     conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2025 - Findings.
     pdf: https://arxiv.org/pdf/2410.14387
-    code: https://github.com/epfl-nlp/ConLID
     # code: https://github.com/epfl-nlp/nlp4education
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
