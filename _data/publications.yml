@@ -1,5 +1,11 @@
 main:
-
+  - title: "ConLID: Supervised Contrastive Learning for Low-Resource Language Identification"
+    authors: <strong>Negar Foroutan</strong>, Jakhongir Saydaliev, Ye Eun Kim, Antoine Bosselut
+    conference_short: arXiv
+    conference: arXiv preprint, 2025.
+    pdf: https://arxiv.org/abs/2506.15304
+    image: ./assets/img/LID_figure.png
+    
   - title: "INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge"
     authors: Angelika Romanou, <strong>Negar Foroutan</strong>, Anna Sotnikova, et al.
     conference_short: ICLR'25
@@ -10,6 +16,17 @@ main:
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/include.png
     notes: Spotlight
+
+  - title: "How Do Multilingual Models Remember? Investigating Multilingual Factual Recall Mechanisms"
+    authors: Constanza Fierro, <strong>Negar Foroutan</strong>, Desmond Elliott, Anders Søgaard
+    conference_short: ACL'25 - Findings
+    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2410.14387
+    # code: https://github.com/epfl-nlp/nlp4education
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/multilingual_recall.png
 
   - title: "Could ChatGPT get an Engineering Degree? Evaluating Higher Education Vulnerability to AI Assistants"
     authors: Beatriz Borges*, <strong>Negar Foroutan*</strong>, Deniz Bayazit*, Anna Sotnikova*, et al.
@@ -32,17 +49,6 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Poster Presentation
     image: ./assets/img/knowledge_critical.png
-
-  - title: "How Do Multilingual Models Remember? Investigating Multilingual Factual Recall Mechanisms"
-    authors: Constanza Fierro, <strong>Negar Foroutan</strong>, Desmond Elliott, Anders Søgaard
-    conference_short: arXiv
-    conference: arXiv preprint, 2024.
-    pdf: https://arxiv.org/pdf/2410.14387
-    # code: https://github.com/epfl-nlp/nlp4education
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Oral Presentation
-    image: ./assets/img/multilingual_recall.png
 
   - title: "Breaking the Language Barrier: Improving Cross-Lingual Reasoning with Structured Self-Attention"
     authors: <strong>Negar Foroutan</strong>, Mohammadreza Banaei, Karl Aberer, Antoine Bosselut
