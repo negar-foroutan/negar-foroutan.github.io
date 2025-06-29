@@ -1,4 +1,5 @@
 main:
+ 
   - title: "WikiMixQA: A Multimodal Benchmark for Question Answering over Tables and Charts"
     authors: <strong>Negar Foroutan</strong>, Angelika Romanou, Matin Ansaripour, Julian Martin Eisenschlos, Karl Aberer, Rémi Lebret
     conference_short: ACL'25
@@ -14,6 +15,15 @@ main:
     pdf: https://arxiv.org/abs/2506.15304
     code: https://github.com/epfl-nlp/ConLID
     image: ./assets/img/LID_figure.png
+
+  - title: "FineWeb2: One Pipeline to Scale Them All -- Adapting Pre-Training Data Processing to Every Language"
+    authors: Guilherme Penedo, Hynek Kydlíček, Vinko Sabolčec, Bettina Messmer, <strong>Negar Foroutan</strong>, Amir Hossein Kargaran, Colin Raffel, Martin Jaggi, Leandro Von Werra, Thomas Wolf
+    conference_short: arXiv
+    conference: arXiv preprint, 2025.
+    pdf: https://arxiv.org/abs/2506.20920
+    image: ./assets/img/fineweb2.png
+    code: https://github.com/huggingface/fineweb-2
+    paget: https://hf.co/datasets/HuggingFaceFW/fineweb-2
     
   - title: "INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge"
     authors: Angelika Romanou, <strong>Negar Foroutan</strong>, Anna Sotnikova, et al.
