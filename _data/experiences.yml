@@ -10,7 +10,7 @@ main:
   - title: "Doctoral Research Assistant"
     company: "EPFL"
     location: "Lausanne, Switzerland"
-    date: "2019 - Present"
+    date: "2019 - 2025"
     description: | # this will include new lines to allow paragraphs
       Contributed to multiple research projects on multilingual LLMs, covering the entire training pipeline. 
       Led the multilingual effort within the <a href="https://www.swiss-ai.org"> SwissAI initiative</a>.

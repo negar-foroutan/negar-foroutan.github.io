@@ -4,21 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a PhD student at the
+I am a research scientist at Google Research, Zurich, Switzerland.
+I recently completed my PhD at
 [School of Computer and Communication Sciences (IC)](http://ic.epfl.ch/),
-[EPFL](http://www.epfl.ch/), Switzerland. I am a doctoral research assistant at
-[NLP](https://nlp.epfl.ch/) and [LSIR](https://www.epfl.ch/labs/lsir/) labs
-under supervision of [Prof. Antoine Bosselut](https://atcbosselut.github.io/)
-and [Prof. Karl Aberer](https://people.epfl.ch/karl.aberer?lang=en).
-Currently, I am doing a 4-month research internship at Google Research, Zurich.
+[EPFL](http://www.epfl.ch/), under supervision of [Prof. Antoine Bosselut](https://atcbosselut.github.io/) and [Prof. Karl Aberer](https://people.epfl.ch/karl.aberer?lang=en).
 
-**NEW: I'm on the job market, looking for a position starting in the Fall of 2025.**
 
 ## Research Interests
 
 My research interests broadly encompass natural language processing (NLP) and machine learning, with a particular focus on improving the multilingual capabilities of large language models (LLMs), especially in low-resource settings.
 I work across the entire pipeline of training multilingual LLMs, including:
-<!-- constructing high-quality pretraining datasets (language identification, filtering, and preprocessing), designing effective multilingual data mixtures, developing language-aware tokenization and architectures, and curating robust multilingual evaluation datasets. My current research focus is: -->
 - **Pretraining Data Construction:** Language identification, data filtering, and preprocessing to ensure high-quality datasets.
 - **Multilingual Data Mixtures:** Designing effective data strategies for balanced language representation.
 - **Language-Aware Tokenization & Architectures:** Developing multilingual tokenizers and LLMs that better handle low-resource languages.
@@ -33,9 +28,9 @@ I work across the entire pipeline of training multilingual LLMs, including:
 
 ## Education
 
-<h4 style="margin:0 10px 0;">PhD in Computer & Communication Sciences | EPFL, Switzerland, 2019 - 2025 (expected)</h4>
+<h4 style="margin:0 10px 0;">PhD in Computer & Communication Sciences | EPFL, Switzerland, 2019 - 2025</h4>
 
-- Thesis: *Scaling Multilinguality: Addressing Low-Resource Language Limitations in Large Language Models*
+- Thesis: *Responsibly Building Multilingual Language Models for Hundreds of Languages*
 - Advisors: [Prof. Antoine Bosselut](https://atcbosselut.github.io/) and [Prof. Karl Aberer](https://people.epfl.ch/karl.aberer?lang=en)
 
 <h4 style="margin:0 10px 0;">MSc in Computer Engineering (Artificial Intelligence) | Shiraz University, Iran, 2013 - 2016</h4>
