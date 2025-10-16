@@ -1,5 +1,20 @@
 main:
  
+  - title: "Parity-Aware Byte-Pair Encoding: Improving Cross-lingual Fairness in Tokenization"
+    authors: <strong>Negar Foroutan</strong>, Clara Meister, Debjit Paul, Joel Niklaus, Sina Ahmadi, Antoine Bosselut, Rico Sennrich
+    conference_short: arXiv
+    conference: arXiv preprint, 2025.
+    pdf: https://arxiv.org/abs/2508.04796
+    image: ./assets/img/parity_bpe.png
+    code: https://github.com/swiss-ai/parity-aware-bpe
+    
+  - title: "Apertus: Democratizing Open and Compliant LLMs for Global Language Environments"
+    authors: Apertus Team
+    conference_short: arXiv
+    conference: arXiv preprint, 2025.
+    pdf: https://arxiv.org/abs/2509.14233
+    image: ./assets/img/apertus.png
+
   - title: "WikiMixQA: A Multimodal Benchmark for Question Answering over Tables and Charts"
     authors: <strong>Negar Foroutan</strong>, Angelika Romanou, Matin Ansaripour, Julian Martin Eisenschlos, Karl Aberer, Rémi Lebret
     conference_short: ACL'25
