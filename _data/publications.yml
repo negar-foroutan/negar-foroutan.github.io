@@ -1,5 +1,13 @@
 main:
  
+  - title: "ConLID: Supervised Contrastive Learning for Low-Resource Language Identification"
+    authors: <strong>Negar Foroutan</strong>, Jakhongir Saydaliev, Ye Eun Kim, Antoine Bosselut
+    conference_short: EACL'26
+    conference: Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2026.
+    pdf: https://arxiv.org/abs/2506.15304
+    code: https://github.com/epfl-nlp/ConLID
+    image: ./assets/img/LID_figure.png
+  
   - title: "Parity-Aware Byte-Pair Encoding: Improving Cross-lingual Fairness in Tokenization"
     authors: <strong>Negar Foroutan</strong>, Clara Meister, Debjit Paul, Joel Niklaus, Sina Ahmadi, Antoine Bosselut, Rico Sennrich
     conference_short: arXiv
@@ -22,14 +30,6 @@ main:
     pdf: https://arxiv.org/abs/2506.15594
     image: ./assets/img/wikimix.png
     code: https://github.com/negar-foroutan/WikiMixQA
-    
-  - title: "ConLID: Supervised Contrastive Learning for Low-Resource Language Identification"
-    authors: <strong>Negar Foroutan</strong>, Jakhongir Saydaliev, Ye Eun Kim, Antoine Bosselut
-    conference_short: arXiv
-    conference: arXiv preprint, 2025.
-    pdf: https://arxiv.org/abs/2506.15304
-    code: https://github.com/epfl-nlp/ConLID
-    image: ./assets/img/LID_figure.png
 
   - title: "FineWeb2: One Pipeline to Scale Them All -- Adapting Pre-Training Data Processing to Every Language"
     authors: Guilherme Penedo, Hynek Kydlíček, Vinko Sabolčec, Bettina Messmer, <strong>Negar Foroutan</strong>, Amir Hossein Kargaran, Colin Raffel, Martin Jaggi, Leandro Von Werra, Thomas Wolf
